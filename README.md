@@ -21,7 +21,7 @@ I'm Animesh Harsh, a Computer Science junior based in Tokyo. I'm passionate abou
 
 [SPIDAR JENGA](https://github.com/lostintochigi/SPIDAR_Jenga) - Jenga game writtten using the Unity Game enginge with config files for connecting to arduino SPIDAR mouse
 
-[Fast_Photo](Work in progress) - An application for formatting and printing your photos at the convenience store much cheaper.
+[FastFoto](Work in progress) - An application for formatting and printing your photos at the convenience store much cheaper.
 
 🌱 I'm currently learning
 
