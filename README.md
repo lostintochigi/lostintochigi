@@ -19,7 +19,7 @@ I'm Animesh Harsh, a Computer Science junior based in Tokyo. I'm passionate abou
 
 🔭 Current Projects
 
-[SPIDAR JENGA](https://github.com/lostintochigi/SPIDAR_Jenga) - Jenga game writtten using the Unity Game enginge with config files for connecting to arduino SPIDAR mouse
+[SPIDAR JENGA](https://github.com/lostintochigi/SPIDAR_Jenga) - Jenga game writtten using the Unity Game enginge with config files for connecting to arduino SPIDAR mouse.
 
 [FastFoto](Work in progress) - An application for formatting and printing your photos at the convenience store much cheaper.
 
@@ -36,5 +36,7 @@ ReactJS
 [LinkedIn](https://www.linkedin.com/in/animesh-harsh/)
 
 [Email](animes.rishu+github@gmail.com)
+
+[Resume](https://github.com/lostintochigi/resume/blob/main/AnimeshHarsh_CV.pdf)
 
 
