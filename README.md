@@ -23,7 +23,7 @@ I'm Animesh Harsh, a Computer Science junior based in Tokyo. I'm passionate abou
 
 [FastFoto](Work in progress) - An application for formatting and printing your photos at the convenience store much cheaper.
 
-[Portfolio Website] - https://lostintochigi.github.io/portfolio-website/
+[Portfolio Website] - https://lostintochigi.github.io/
 
 🌱 I'm currently learning
 
