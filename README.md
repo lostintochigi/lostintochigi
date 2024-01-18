@@ -37,7 +37,7 @@ ReactJS
 
 [LinkedIn](https://www.linkedin.com/in/animesh-harsh/)
 
-[Email](animes.rishu+github@gmail.com)
+[Email](mailto:animes.rishu@gmail.com?subject=Contact via Animesh's website&amp;)
 
 [Resume](https://github.com/lostintochigi/resume/blob/main/AnimeshHarsh_CV.pdf)
 
