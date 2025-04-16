@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Animesh Harsh, a Computer Science junior based in Tokyo. I'm passionate about Data Science, App Development, Unity, Scripting and I love using technology to make my life easier.
+I'm Animesh Harsh, Masters Year 1 student based in Tokyo. I'm passionate about Data Science, App Development, Unity, Scripting and I love using technology to make my life easier.
 
 🔭 Current Projects
 
